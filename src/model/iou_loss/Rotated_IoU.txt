@@ -1,0 +1,2 @@
+# differentiable loss for oriented 3d bounding boxes
+https://github.com/lilanxiao/Rotated_IoU
